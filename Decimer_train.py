@@ -10,7 +10,7 @@ Project_path = os.path.dirname(__file__)
 dataset_path = os.path.join(Project_path, "dataset")
 train_path = os.path.join(Project_path, "Image2SMILES/Data/")
 line_count = 64
-
+Path(train_path).mkdir(parents=True)
 
 def copy_smiles(in_smiles_path, out_smiles_path, start, end):
     f = open(in_smiles_path)
