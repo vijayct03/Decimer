@@ -1,5 +1,0 @@
-2021/05/19 13:45:13 Network Started
-Selected Data  64 All data  64
-2021/05/19 13:45:56 Train Images size:  57 Train Smiles size 57 Test Images size 7 Test Smiles size 7
-2021/05/19 13:45:57 Actual Training Started
-2021/05/19 13:45:58 Network Completed
