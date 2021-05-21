@@ -42,7 +42,7 @@ def create_batch(start_line, end_line, dataset_smiles, train_img_path, train_smi
                                    )
         if training != 0:
             print("Error in training phase \n")
-            return
+            
     except Exception as ex:
         print(ex)
 
